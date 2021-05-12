@@ -1,0 +1,1 @@
+puts [6, 7, 8, 9, 10].select{|num| num.odd?}
